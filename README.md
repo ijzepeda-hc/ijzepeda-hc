@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there, I'm Ivan 👋
 
+I'm a passionate mobile developer with experience in creating innovative and user-friendly applications. Welcome to my GitHub profile! 
 
-**ijzepeda-hc/ijzepeda-hc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Skills
 
-Here are some ideas to get you started:
+- **Languages:** Swift, Kotlin, Java
+- **Frameworks:** SwiftUI, Android SDK, UIKit
+- **Tools:** Xcode, Android Studio, Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📱 Projects
 
+Here are a few projects I've worked on:
+
+- [Project 1](link-to-project-1): Short description of project 1.
+- [Project 2](link-to-project-2): Short description of project 2.
+- [Project 3](link-to-project-3): Short description of project 3.
+
+## 🌱 Currently Learning
+
+I'm always eager to learn and explore new technologies. Currently, I'm focusing on:
+
+- Improving my knowledge of SwiftUI
+- Exploring advanced Android development techniques
+
+## 📫 Get in Touch
+
+Feel free to reach out to me through the following channels:
+
+- LinkedIn: [Your LinkedIn Profile](link-to-your-linkedin)
+- Email: your.email@example.com
+
+Let's connect and collaborate on exciting projects!

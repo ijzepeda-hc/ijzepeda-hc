@@ -8,6 +8,10 @@ I'm a passionate mobile developer with experience in creating innovative and use
 - **Frameworks:** SwiftUI, Android SDK, UIKit
 - **Tools:** Xcode, Android Studio, Git
 
+## 📊 GitHub Stats
+
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+
 ## 📱 Projects
 
 Here are a few projects I've worked on:
@@ -22,6 +26,10 @@ I'm always eager to learn and explore new technologies. Currently, I'm focusing 
 
 - Improving my knowledge of SwiftUI
 - Exploring advanced Android development techniques
+
+## 📈 Languages Used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
 
 ## 📫 Get in Touch
 
